@@ -1,3 +1,9 @@
+## What is this?
+
+This repo is an attempt to preserve the last non-paid commit of oodesign/merge-duplicate-symbols
+
+See the previous non-flattened commits here: https://github.com/oodesign/merge-duplicate-symbols/commits/35a7d705b39c1116862ab2b5fb583a659535c056 
+
 <img src="https://github.com/oodesign/merge-duplicate-symbols/blob/master/Images/Hero.png" alt="Merge duplicate symbols logo"/>
 
 # Merge duplicate symbols (Sketch plugin)
