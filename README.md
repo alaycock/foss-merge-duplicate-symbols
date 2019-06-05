@@ -1,6 +1,6 @@
 ## What is this?
 
-This repo https://github.com/oodesign/merge-duplicate-symbols, flattened their commits in an attempt to force people into a paid plan. This repo is an attempt to preserve the last non-flattened commit of that repo. Feel free to download, fork, and use this Sketch plugin as you did previously. This is all completely legal and free of charge, as this code is licensed under GPLv3.
+This repo https://github.com/oodesign/merge-duplicate-symbols, deleted their commit history in an attempt to force people into a paid plan. This repo is an attempt to preserve the last commit of that repo to continue to allow Sketch users to download, fork, and use this Sketch plugin as you did previously. This is all completely legal and free of charge, as this code is licensed under GPLv3.
 
 I'm open to PRs and issues, but I won't be taking feature requests unless someone else volunteers to maintain this plugin. If you would like ongoing support, I suggest you pay for the full version of merge-duplicate-symbols.
 
