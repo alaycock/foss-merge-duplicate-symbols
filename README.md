@@ -1,8 +1,12 @@
 ## What is this?
 
-This repo is an attempt to preserve the last non-paid commit of oodesign/merge-duplicate-symbols
+This repo https://github.com/oodesign/merge-duplicate-symbols, flattened their commits in an attempt to force people into a paid plan. This repo is an attempt to preserve the last non-flattened commit of that repo. Feel free to download, fork, and use this Sketch plugin as you did previously. This is all completely legal and free of charge, as this code is licensed under GPLv3.
 
-See the previous non-flattened commits here: https://github.com/oodesign/merge-duplicate-symbols/commits/35a7d705b39c1116862ab2b5fb583a659535c056 
+I'm open to PRs and issues, but I won't be taking feature requests unless someone else volunteers to maintain this plugin. If you would like ongoing support, I suggest you pay for the full version of merge-duplicate-symbols.
+
+You can see the non-flattened history in the previous repository here: https://github.com/oodesign/merge-duplicate-symbols/commits/35a7d705b39c1116862ab2b5fb583a659535c056 
+
+---
 
 <img src="https://github.com/oodesign/merge-duplicate-symbols/blob/master/Images/Hero.png" alt="Merge duplicate symbols logo"/>
 
